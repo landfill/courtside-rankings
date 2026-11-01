@@ -1,0 +1,3 @@
+Tennis rankings data by Jeff Sackmann / Tennis Abstract (tennis_atp, tennis_wta), licensed under CC BY-NC-SA 4.0.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Built with scripts/build-ranking-data.cjs. Later weekly snapshots are collected by COURTSIDE (scripts/collect-rankings.cjs).
